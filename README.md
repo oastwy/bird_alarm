@@ -34,6 +34,12 @@ iOS 系统限制后台应用运行，建议将 App 保留在前台（锁屏前�
 
 在鸟声库中点击搜索，输入鸟种名称（中文、英文或学名均可）即可从 xeno-canto 获取录音列表。如需更高请求额度，可在设置中填入个人 xeno-canto API Key。
 
+## 致谢
+
+本 App 的鸟声资源来自 **[xeno-canto](https://xeno-canto.org)**——一个由全球鸟友共同维护的野生鸟声共享平台。感谢所有在 xeno-canto 上上传录音的记录者，正是你们的贡献让这个 App 成为可能。
+
+内置鸟鸣均遵循 xeno-canto 的 Creative Commons 授权协议使用。如需了解每条录音的具体授权，请通过录音 ID 在 xeno-canto 网站查询。
+
 ## 反馈与联系
 
 使用中遇到问题或有建议，欢迎联系：birderrrr@gmail.com
